@@ -1,0 +1,10 @@
+# Datos (descargar desde Kaggle)
+data/
+*.csv
+
+# Archivos temporales de Power BI
+*.pbix.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
